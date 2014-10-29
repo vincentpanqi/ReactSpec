@@ -6,4 +6,6 @@ ReactSpec
 * http://segmentfault.com/q/1010000000728089  关于React的必要性讨论
 * http://www.html-js.com/article/Using-Reactjs-to-develop-web-application-Reactjs-programming-ideas React编程思想，以一个小组件的构建过程讲解了原理，好文
 * http://calendar.perfplanet.com/2013/diff/  React的diff算法讲解
+* https://medium.com/@garychambers108/understanding-flux-f93e9f650af7 理解Flux
+* http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture 深入理解Flux架构
 
