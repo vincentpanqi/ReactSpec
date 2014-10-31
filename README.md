@@ -8,4 +8,6 @@ ReactSpec
 * http://calendar.perfplanet.com/2013/diff/  React的diff算法讲解
 * https://medium.com/@garychambers108/understanding-flux-f93e9f650af7 理解Flux
 * http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture 深入理解Flux架构
+* http://murilopereira.com/the-case-for-reactjs-and-clojurescript/#/75 React原理的Slide
+* http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux 很好的案例分析文章，React+Flux
 
