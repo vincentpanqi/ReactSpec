@@ -11,4 +11,5 @@ ReactSpec
 * http://murilopereira.com/the-case-for-reactjs-and-clojurescript/#/75 React原理的Slide
 * http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux 很好的案例分析文章，React+Flux
 * http://www.slideshare.net/rmsguhan/react-meetup-mailonreact YahooMail的使用案例，可以看到React+Flux架构对比普通MVC模式的优势以及同构的概念
+* http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html 用React创建动态表单
 
