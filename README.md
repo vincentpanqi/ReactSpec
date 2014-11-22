@@ -13,4 +13,5 @@ ReactSpec
 * http://www.slideshare.net/rmsguhan/react-meetup-mailonreact YahooMail的使用案例，可以看到React+Flux架构对比普通MVC模式的优势以及同构的概念
 * http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html 用React创建动态表单
 * http://segmentfault.com/blog/nightire/1190000000753400 一篇很好的对比Facebook React 和 Web Components（Polymer）优势和劣势的文章
+* http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome 理解React原理一定要看的一篇文章
 
