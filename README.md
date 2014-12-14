@@ -14,4 +14,9 @@ ReactSpec
 * http://www.dustingetz.com/2014/03/16/react-into-workshop-notes.html 用React创建动态表单
 * http://segmentfault.com/blog/nightire/1190000000753400 一篇很好的对比Facebook React 和 Web Components（Polymer）优势和劣势的文章
 * http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome 理解React原理一定要看的一篇文章
-
+* http://www.andrewgreig.com/637/ 一篇针对React快速思考的文章，一些React问题的反思比较有思考意义
+* http://facebook.github.io/react/blog/2013/06/05/why-react.html 官方说明，我们为什么创造了React，比较权威的说明
+* http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/ 一篇用React实现的chat应用介绍文章
+* http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html  对React最佳实践的一些重新思考
+* http://www.phpied.com/server-side-react-with-php-part-2/ 用PHP渲染React
+* https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e 介绍Flux架构的文章
