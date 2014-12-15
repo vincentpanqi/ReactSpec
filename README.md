@@ -1,5 +1,6 @@
 ReactSpec
 =========
+* https://signalvnoise.com/posts/3124-give-it-five-minutes 给他5分钟，很深刻的哲理
 * http://blog.krawaller.se/posts/a-react-js-case-study-follow-up/ 用一个小游戏case讲解react基础
 * http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts 对react基础几个概念讲解的不错
 * http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660 很好的整体介绍性文章，值得多看几遍
@@ -18,5 +19,7 @@ ReactSpec
 * http://facebook.github.io/react/blog/2013/06/05/why-react.html 官方说明，我们为什么创造了React，比较权威的说明
 * http://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/ 一篇用React实现的chat应用介绍文章
 * http://2013.jsconf.eu/speakers/pete-hunt-react-rethinking-best-practices.html  对React最佳实践的一些重新思考
+* http://www.slideshare.net/floydophone/react-preso-v2  对React最佳实践的一些重新思考SlideShare
 * http://www.phpied.com/server-side-react-with-php-part-2/ 用PHP渲染React
 * https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e 介绍Flux架构的文章
+* https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component 很好的一篇关于React思想的文章
