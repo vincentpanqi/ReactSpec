@@ -23,3 +23,4 @@ ReactSpec
 * http://www.phpied.com/server-side-react-with-php-part-2/ 用PHP渲染React
 * https://medium.com/brigade-engineering/what-is-the-flux-application-architecture-b57ebca85b9e 介绍Flux架构的文章
 * https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component 很好的一篇关于React思想的文章
+* https://reactjsnews.com/react-style-guide-patterns-i-like/ 关于React编码风格的文章，值得遵守一下最佳编码风格
